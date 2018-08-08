@@ -1,0 +1,9 @@
+﻿  main.cpp
+c:\users\florentino garcia\source\repos\semana4\semana4\main.cpp(26): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+c:\users\florentino garcia\source\repos\semana4\semana4\main.cpp(27): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  Generando código...
+  Compilando...
+  TrianguloRectangulo.cpp
+  Rectangulo.cpp
+  Generando código...
+  Semana4.vcxproj -> C:\Users\FLORENTINO GARCIA\source\repos\Semana4\Debug\EjemploPolimorfismo.exe
